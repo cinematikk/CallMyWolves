@@ -1,4 +1,4 @@
-CallMyWolves
+CallMyWolves (known as CallMyPets now)
 ============
 
-The official CMW plugin code for Bukkit is currently unavailable.
+The official CMP plugin code for Bukkit is currently unavailable because of legal reasons.
